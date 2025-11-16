@@ -36,11 +36,11 @@
 
 
   <!-- Django -->
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/django.svg" alt="django" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50" style="margin:8px" />
 
 
   <!-- FastAPI -->
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/fastapi.svg" alt="fastapi" style="vertical-align:top; margin:4px">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" height="50" style="margin:8px" />
        
 
   <!-- PostgreSQL -->

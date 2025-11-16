@@ -62,6 +62,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50" style="vertical-align:top; margin:4px">
 
 
+  <!-- Postman -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="postman" width="50" height="50" style="vertical-align:top; margin:4px">
+
+
   <!-- GitHub -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="50" height="50" style="vertical-align:top; margin:4px">
        

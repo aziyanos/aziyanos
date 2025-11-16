@@ -22,7 +22,15 @@
 <p align="center">
   <a href="https://github.com/aziyanos">
     <img src="https://github-readme-stats.vercel.app/api?username=aziyanos&show_icons=true&theme=radical" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aziyanos&theme=radical&layout=compact&hide=MAKO,Dockerfile" alt="Most Used Languages" />
+  </a>
+</p>
+
+<br />
+
+
+<p align="center">
+  <a href="https://github.com/aziyanos">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aziyanos&theme=radical&layout=compact&hide=MAKO,Dockerfile" alt="Most Used Languages" />
   </a>
 </p>
 

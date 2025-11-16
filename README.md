@@ -32,7 +32,7 @@
 <p align="center">
 
   <!-- Python -->
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:10px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px">
 
 
   <!-- Django -->
@@ -48,7 +48,7 @@
 
 
   <!-- MongoDB -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50" style="vertical-align:top; margin:6px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50" style="vertical-align:top; margin:4px">
        
 
   <!-- Docker -->

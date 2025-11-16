@@ -32,43 +32,42 @@
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/django.svg" alt="django" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/fastapi.svg" alt="django" style="vertical-align:top; margin:4px">
+
   <
 
 <p align="center">
 
   <!-- Python -->
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" 
-       alt="python" style="vertical-align:top; margin:6px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
+
 
   <!-- Django -->
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/django.svg" 
-       alt="django" style="vertical-align:top; margin:6px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/django.svg" alt="django" style="vertical-align:top; margin:4px">
+
 
   <!-- FastAPI -->
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/fastapi.svg" 
-       alt="fastapi" style="vertical-align:top; margin:6px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/fastapi.svg" alt="fastapi" style="vertical-align:top; margin:4px">
+       
 
   <!-- PostgreSQL -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" 
-       alt="postgresql" width="50" height="50" style="vertical-align:top; margin:6px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50" style="vertical-align:top; margin:4px">
+
 
   <!-- MongoDB -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" 
-       alt="mongodb" width="50" height="50" style="vertical-align:top; margin:6px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50" style="vertical-align:top; margin:6px">
+       
 
   <!-- Docker -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" 
-       alt="docker" width="55" height="55" style="vertical-align:top; margin:6px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="55" height="55" style="vertical-align:top; margin:4px">
+       
 
   <!-- Linux -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" 
-       alt="linux" width="50" height="50" style="vertical-align:top; margin:6px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50" style="vertical-align:top; margin:4px">
+
 
   <!-- GitHub -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" 
-       alt="github" width="50" height="50" style="vertical-align:top; margin:6px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="50" height="50" style="vertical-align:top; margin:4px">
+       
 
 </p>
 

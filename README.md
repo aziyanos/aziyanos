@@ -2,16 +2,6 @@
    <h1>Hi there, I'm <a href="https://hemant.codes">Aziyanos</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
    
-<div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙍‍♂️ Aziz Temirbekov | 💻 Backend Developer | &#x1f1f0;&#x1f1ec; Kyrgyzstan  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
-</div>
-
- 
-<p align="center">
-  <h3> I'm 21 years old. Backend developer .</h3>
-</p>
-
-
 <p align="center">
   <a href="https://github.com/aziyanos">
     <img src="https://github-readme-stats.vercel.app/api?username=aziyanos&show_icons=true&theme=radical" />

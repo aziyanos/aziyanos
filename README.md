@@ -32,7 +32,7 @@
 <p align="center">
 
   <!-- Python -->
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" width="50" height="50" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" width="100" height="100" style="vertical-align:top; margin:4px">
 
 
   <!-- Django -->

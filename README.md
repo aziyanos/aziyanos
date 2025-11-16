@@ -22,7 +22,7 @@
 <p align="center">
   <a href="https://github.com/aziyanos">
     <img src="https://github-readme-stats.vercel.app/api?username=aziyanos&show_icons=true&theme=radical" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aziyanos&theme=radical" alt="Most Used Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aziyanos&theme=radical&compact" alt="Most Used Languages" />
   </a>
 </p>
 

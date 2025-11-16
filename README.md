@@ -7,11 +7,6 @@
 </div>
 
  
- <h5 align="center">
-   <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
-  </h5>
-
- 
 <p align="center">
   <h3> I'm 21 years old. Backend developer .</h3>
 </p>

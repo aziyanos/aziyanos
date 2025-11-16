@@ -20,7 +20,7 @@
 
 
 <p align="center" >
-<a href="https://github-readme-stats.vercel.app/api?username=aziyanos&show_icons=true&theme=radical"> 
+<a href="[[https://github-readme-stats.vercel.app/api?username=aziyanos"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=mayhemantt&&show_icons=true&theme=radical"/>
   </a>
 
